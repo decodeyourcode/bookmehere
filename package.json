@@ -13,11 +13,8 @@
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "pg": "^8.10.0"
-<<<<<<< HEAD
   },
   "devDependencies": {
     "@supabase/supabase-js": "^2.43.1"
-=======
->>>>>>> f2e05b7e6de7f9fa5c93dae06857c9c02fa4a9d2
   }
 }
